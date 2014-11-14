@@ -5,6 +5,7 @@ public class Raca {
 	public String nomeRaca;
 
 	//public static List listaRaca = new ArrayList<listaRaca>() {
+	
 	//};
 	
 }
